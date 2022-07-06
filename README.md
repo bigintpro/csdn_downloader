@@ -15,8 +15,11 @@ csdn 免会员下载工具
 #### 使用说明
 
 1. 复制需要下载页面的url(也即是浏览器地址栏的地址)
+![看看](./public/download1.png)
 2. 张贴到下载输入框的
+![看看](./public/download3.png)
 3. 点击下载
+![看看](./public/download4.png)
 
 #### 参与贡献
 
