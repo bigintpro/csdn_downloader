@@ -8,7 +8,7 @@ csdn 免积分下载工具
 
 #### 安装教程
 
-1.  体验地址 http://servicedev.tpddns.cn:8181/#/login?c=1
+1.  体验地址 http://servicedev.tpddns.cn:8181/#/login?c=12
 2.  需要注册 并拥有qq,163等邮箱
 
 #### 使用说明
