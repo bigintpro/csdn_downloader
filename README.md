@@ -10,7 +10,7 @@
 
 #### 安装教程
 
-1.  体验地址 http://toolman.ddnsfree.com:8282/#/login?c=12
+1.  体验地址 http://toolman.ddnsfree.com:8181/#/login?c=12
 2.  需要注册 并拥有qq,163等邮箱
 
 #### 使用说明
