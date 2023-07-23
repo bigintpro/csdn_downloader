@@ -10,8 +10,9 @@
 
 #### 安装教程
 
-1.  体验地址 http://toolman.ddnsfree.com:8181/#/login?c=12
-2.  需要注册 并拥有qq,163等邮箱
+1.  体验地址1(需要支持ipv6) http://toolman.ddnsfree.com:8181/#/login?c=12
+2.  体验地址2 http://139.9.52.226:8181/#/login?c=12
+3.  需要注册 并拥有qq,163等邮箱
 
 #### 使用说明
 
