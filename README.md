@@ -4,6 +4,8 @@
 + csdn免积分下载工具
 + csdn免会员下载工具
 + csdnvip资源下载工具
++ csdn文章下载，免积分，免购买超级会员
++ 
 
 #### 软件架构
 采用spingboot + dubbo 架构设计 
