@@ -12,9 +12,9 @@
 
 #### 安装教程
 
-1.  体验地址1(最快) http://servicedev.tpddns.cn:8181/#/login?c=12
-2.  体验地址2(需要支持ipv6，最快) http://toolman.ddnsfree.com:8181/#/login?c=12
-3.  体验地址3(慢) http://101.35.49.187:8181/#/login?c=12
+1.  体验地址1(最快) http://servicedev.tpddns.cn:9192/#/login?c=12
+2.  体验地址2(需要支持ipv6，最快) http://toolman.ddnsfree.com:9192/#/login?c=12
+3.  体验地址3(慢) http://101.35.49.187:9192/#/login?c=12
 5.  需要注册 并拥有qq,163等邮箱
 
 #### 使用说明
